@@ -58,7 +58,7 @@ BACKEND_URL=sua_url_do_firebase_aqui
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/pedester321/RNexpenseApp
+git clone https://github.com/fioravante-dev/RNexpenseApp
 cd expensesApp
 ```
 
